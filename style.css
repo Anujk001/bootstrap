@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#c1
+{
+    background-color: turquoise;
+}
+#c1 img{
+    height:300px;
+    margin-top:40px;
+}
+.carousel-inner p{
+    font-size:25px;
+    background-color: blueviolet;
+    width: 150px;
+    margin-top: 10px;
+}
+
